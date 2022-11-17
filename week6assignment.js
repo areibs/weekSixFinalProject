@@ -122,6 +122,8 @@ class Game {
     }
 }
 
+
+
 let playGame = new Game();
 playGame.compareCards();
 playGame.determineWinner();
